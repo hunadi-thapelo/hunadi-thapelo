@@ -43,3 +43,11 @@
 	</a>
 </div>
 </p>
+
+## <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">About Me
+
+My name is Hunadi Mapulane. I am a human-oriented and hands-on Systems QA Engineer with a focus on analysis and design of software business solutions. With a career spanning just over 9 years of experience working software engineers and UI/UX developers in developing cutting-edge web applications solutions, I have been pivotal in being the bridge between business and development team and also performing web-based testing, API and database testing.
+
+I enjoy working with logical problems and getting my hands dirty.
+
+In my spare time I enjoy spending time outside in the garden making art, reading or planting more flowers - because you can never have enough flowers :)  If I am not outside, you will likely catch me spending time with my loved ones and cooking up a delicious storm.
