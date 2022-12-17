@@ -50,4 +50,5 @@ My name is Hunadi Mapulane. I am a human-oriented and hands-on Systems QA Engine
 
 I enjoy working with logical problems and getting my hands dirty.
 
-In my spare time I enjoy spending time outside in the garden making art, reading or planting more flowers - because you can never have enough flowers :)  If I am not outside, you will likely catch me spending time with my loved ones and cooking up a delicious storm.
+Speaking of getting my hands dirty, in my spare time I enjoy spending time in my garden planting and pruning. If I am not outside, you are likely catch me painting or spending time with my loved ones and cooking up a delicious storm for them.
+
